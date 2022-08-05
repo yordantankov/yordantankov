@@ -4,6 +4,7 @@
 - 📫 How to reach me :
 - 💼LinkedIn : https://www.linkedin.com/in/yordan-tankov-760a99246/
 - 📧 E-mail - 📧 yordantankov@gmail.com,📧 yordan.tankov@abv.bg
+- Facebook - https://bg-bg.facebook.com/profile.php?id=100030159861393
 - 📋 instagram -> yordan.tankov ...
 
 <!---
