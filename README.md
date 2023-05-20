@@ -5,7 +5,7 @@
 - 💼LinkedIn : https://www.linkedin.com/in/yordan-tankov-760a99246/
 - 📧 E-mail - 📧 yordantankov@gmail.com,📧 yordan.tankov@abv.bg
 - 📖Facebook - https://bg-bg.facebook.com/profile.php?id=100030159861393
-- 🌎instagram ->[ yordan.tankov ...](https://www.instagram.com/yordan.tankov/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yordan.tankov/) 
 
 <!---
 yordantankov/yordantankov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
