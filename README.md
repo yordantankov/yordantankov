@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100030159861393/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yordan.tankov/) 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivaylokenov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokenov&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yordantankov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordantankov&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 <!---
