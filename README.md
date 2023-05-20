@@ -10,7 +10,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yordantankov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordantankov&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
-![](https://komarev.com/ghpvc/?username=yordantankov&style=flat-square)
+![](https://komarev.com/ghpvc/?username=yordantankov&style=for-the-badge)
 
 <!---
 yordantankov/yordantankov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
