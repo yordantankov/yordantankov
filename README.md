@@ -4,7 +4,14 @@
 - 📫 How to reach me :
 - 📧 E-mail - 📧 yordantankov@gmail.com,📧 yordan.tankov@abv.bg
 
-
+<p align ='left'>
+  <a href="">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+  </a>&nbsp;&nbsp;
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yordan-tankov-760a99246//) 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100030159861393/)
