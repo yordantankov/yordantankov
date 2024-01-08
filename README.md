@@ -31,7 +31,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yordantankov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordantankov&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={yordantankov}&theme={2077}&exclude={exclude}
+
 
 
 
