@@ -11,7 +11,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   </a>&nbsp;&nbsp;
-</p>
+
 
 <img align="left" alt="html5" height="32px" src="./icons/html5_original_ico.svg" style="padding:1em;" />
   <img align="left" alt="css3" height="32px" src="./icons/css3_original_ico.svg" style="padding:1em;" />
