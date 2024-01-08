@@ -13,6 +13,12 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<img align="left" alt="html5" height="32px" src="./icons/html5_original_ico.svg" style="padding:1em;" />
+  <img align="left" alt="css3" height="32px" src="./icons/css3_original_ico.svg" style="padding:1em;" />
+  <img align="left" alt="javascript" height="32px" src="./icons/javascript_original_ico.svg" style="padding:1em;" />
+  <img align="left" alt="pycharm" height="32px" src="./icons/pycharm_original_ico.svg" style="padding:1em;" />
+  <img align="left" alt="vscode" height="32px" src="./icons/vscode_original_ico.svg" style="padding:1em;" />
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yordan-tankov-760a99246//) 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100030159861393/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yordan.tankov/) 
