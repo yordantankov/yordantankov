@@ -4,13 +4,6 @@
 - 📫 How to reach me :
 - 📧 E-mail - 📧 yordantankov@gmail.com,📧 yordan.tankov@abv.bg
 
-<p align ='left'>
-  <a href="">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-  </a>&nbsp;&nbsp;
 
 
 <img align="left" alt="html5" height="32px" src="./icons/html5_original_ico.svg" style="padding:1em;" />
