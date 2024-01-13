@@ -1,8 +1,7 @@
 - 👋 Hi there, I’m Yordan Tankov
 - 👀 I’m interested in Python 🐍...
 - 🎓 I’m currently learning Python 🐍 in Software university (SoftUni)...
-- 📫 How to reach me :
-- 📧 E-mail - 📧 yordantankov@gmail.com,📧 yordan.tankov@abv.bg
+- 📫 How to reach me :- 📧 E-mail - 📧 yordantankov@gmail.com,📧 yordan.tankov@abv.bg
 
 
 
