@@ -30,10 +30,7 @@
 <br />
 <hr />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yordantankov&style=flat-square" style="padding-top:1em; padding-bottom:1em;"/>
-</div>
-<br />
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yordan-tankov-760a99246//) 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100030159861393/)
