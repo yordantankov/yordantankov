@@ -6,7 +6,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+dear+visitor!+👋;+I'm+Yordan+Tankov!;" />
 </h1>
-
+<img align="left" alt="python" height="32px" src="./icons/python_original_ico.svg" style="padding:1em;" />
 <img align="left" alt="html5" height="32px" src="./icons/html5_original_ico.svg" style="padding:1em;" />
   <img align="left" alt="css3" height="32px" src="./icons/css3_original_ico.svg" style="padding:1em;" />
   <img align="left" alt="javascript" height="32px" src="./icons/javascript_original_ico.svg" style="padding:1em;" />
