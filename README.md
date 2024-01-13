@@ -17,8 +17,8 @@
 <hr />
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img height=180 align="center" alt="Yordan's GitHub Stats" src="https://streak-stats.demolab.com?user=yordantankov&theme=dark&border_radius=4.4&background=45%2C09131B%2C09131B&border=0C1A25" style="padding-right:1em; padding-bottom:0.5em;"/>
-  <img height=180 align="center" alt="Yordan's GitHub Top-Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yordantankov&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" style="padding-right:1em; padding-bottom:0.5em;"/>
+  <img height=160 align="center" alt="Yordan's GitHub Stats" src="https://streak-stats.demolab.com?user=yordantankov&theme=dark&border_radius=4.4&background=45%2C09131B%2C09131B&border=0C1A25" style="padding-right:1em; padding-bottom:0.5em;"/>
+  <img height=160 align="center" alt="Yordan's GitHub Top-Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yordantankov&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" style="padding-right:1em; padding-bottom:0.5em;"/>
 </div>
 <br />
 <hr />
