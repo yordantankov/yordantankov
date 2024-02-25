@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python 🐍...
 - 🎓 I’m currently learning Python 🐍 in Software university (SoftUni)...
 - 📫 How to reach me :- 📧 E-mail - 📧 yordantankov@gmail.com,📧 yordan.tankov@abv.bg
-- 😄 And my portfolio:  https://yordantankov.github.io/My_Portfolio_v1.1/
+- 😄 And my portfolio:  https://yordantankov.github.io/My_Portfolio_v1.2/
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+dear+visitor!+👋;+I'm+Yordan+Tankov!;" />
